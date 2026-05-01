@@ -24,6 +24,9 @@ to academic success.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+  
+## Dashboard
+Interactive Tableau dashboard: [View on Tableau Public](https://public.tableau.com/views/StudentPerformanceAnalysis_17776460222960/StudentPerformanceAnalysis)
 
 ## Dataset
 [Students Performance in Exams – Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
